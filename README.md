@@ -1,4 +1,7 @@
 ### Hi there 👋, My name is Venkat Naren
+
+(https://github.com/Venkat-Naren/Venkat-Naren/blob/main/venkat_naren_banner.png)
+
 I'm passionate about using data to get insightful conclusions. My major was mechanical engineering, and currently, I'm pursuing a master's degree in Information systems from California State University, Fullerton. I use SQL, Python, R, Tableau, and Excel extensively. I enjoy adapting to new programming languages and expanding my collection of tools for analyzing data.
 
 Skills: SQL / Tableau / Python / Agile Methodologies / Salesforce
